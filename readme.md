@@ -1,0 +1,1 @@
+Catch flies and get a top score. Miss 5 flies or eat 5 bees and you die! Good Luck.
